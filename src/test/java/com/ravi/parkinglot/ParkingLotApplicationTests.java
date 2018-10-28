@@ -1,4 +1,4 @@
-package com.ravi.chess;
+package com.ravi.parkinglot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
